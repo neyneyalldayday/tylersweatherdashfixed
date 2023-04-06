@@ -1,0 +1,31 @@
+.header {
+  background-color: ;
+}
+
+
+.aside {
+  margin-right: 20px;
+  padding: 20px;
+  clear: both;
+  float: left;
+  width: 20%;
+  height: 100%;
+}
+
+.history {
+  display: block;
+  width: 20vw;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding: 5px;
+}
+
+.searchBtn {
+  width: 20vw;
+  padding: 5px;
+  background-color: #007bff;
+}
+
+.inputBar {
+  width: 20vw;
+}
